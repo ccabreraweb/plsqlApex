@@ -1,1 +1,1 @@
-select *from xxape_contratos where rownum=1;
+select *from xxape_contratos where rownum=1 and where numero_contrato='CA2345';
